@@ -1,0 +1,4 @@
+jqueryable
+==========
+
+Java queryable collections
